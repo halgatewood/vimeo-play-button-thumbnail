@@ -4,9 +4,6 @@ Vimeo Thumbnails With Play Buttons
 Easily create Vimeo thumbnails with play buttons watermarked on the top.
 
 
-Demo: http://halgatewood.com/vimeo/
-
-
 License: The just-use-it license. Have fun!
 
 Setup:
